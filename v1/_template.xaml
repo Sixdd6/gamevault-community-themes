@@ -37,5 +37,5 @@
     <!-- Border Colors | On Realtime-Colors this is "Accent" -->
     <Color x:Key="GameVault.Colors.Border">#FF3B3767</Color>
     <!-- Blur Overlay Color | Usually White for Light Themes and Black for Dark Themes  -->
-    <Color x:Key="GameVault.Colors.Border">#00000000</Color>
+    <Color x:Key="GameVault.Colors.Blur">#00000000</Color>
 </ResourceDictionary>
