@@ -17,7 +17,7 @@
     <system:String x:Key="Theme.Description">This is an example template so that users can create
         custom themes.</system:String>
     <!-- How the theme will be shown in UI -->
-    <system:String x:Key="Theme.DisplayName">GameVault Theme Classic (Dark)</system:String>
+    <system:String x:Key="Theme.DisplayName">GameVault Theme Template (Dark)</system:String>
 
     <!-- Text Color | On Realtime-Colors this is "Text" -->
     <Color x:Key="GameVault.Colors.Foreground">#FFFFFFFF</Color>
