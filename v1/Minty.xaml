@@ -6,7 +6,7 @@
     <system:Int32 x:Key="Theme.SchemaVersion">1</system:Int32>
     <!-- EDIT THEME HERE-->
     <!-- A version number you can use to update your theme -->
-    <system:Int32 x:Key="Theme.Version">1</system:Int32>
+    <system:Int32 x:Key="Theme.Version">2</system:Int32>
     <!-- Theme File Name Convention is Theme+YourThemeName+Dark/Light (e.g. ThemeOceanLight) -->
     <system:String x:Key="Theme.Name">ThemeMintyLight</system:String>
     <!-- Ideally your GitHub Username -->
@@ -21,19 +21,19 @@
     <!-- Text Color on top of Primary Color -->
     <Color x:Key="GameVault.Colors.Foreground2">#FF000000</Color>
     <!-- Background Color (The one that takes most background space) | On Realtime-Colors this is "Background" -->
-    <Color x:Key="GameVault.Colors.Background">#FF95CC95</Color>
+    <Color x:Key="GameVault.Colors.Background">#FFdef3e5</Color>
     <!-- Background Color (for cards and layouts) | On Realtime-Colors this is "Secondary" -->
-    <Color x:Key="GameVault.Colors.Background2">#FF65AA65</Color>
+    <Color x:Key="GameVault.Colors.Background2">#FFc1debe</Color>
     <!-- Primary / Accent Color | On Realtime-Colors this is "Primary" -->
-    <Color x:Key="GameVault.Colors.Accent">#FF65AA65</Color>
+    <Color x:Key="GameVault.Colors.Accent">#FF589566</Color>
     <!-- Primary Accent Color with 60% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent2">#9965AA65</Color>
+    <Color x:Key="GameVault.Colors.Accent2">#99589566</Color>
     <!-- Primary Accent Color with 40% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent3">#6665AA65</Color>
+    <Color x:Key="GameVault.Colors.Accent3">#66589566</Color>
     <!-- Primary Accent Color with 20% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent4">#3365AA65</Color>
+    <Color x:Key="GameVault.Colors.Accent4">#33589566</Color>
     <!-- Border Colors | On Realtime-Colors this is "Accent" -->
-    <Color x:Key="GameVault.Colors.Border">#FF65AA65</Color>
+    <Color x:Key="GameVault.Colors.Border">#FF589566</Color>
     <!-- Blur Overlay Color | Usually White for Light Themes and Black for Dark Themes  -->
-    <Color x:Key="GameVault.Colors.Blur">#80FFFFFF</Color>
+    <Color x:Key="GameVault.Colors.Blur">#00FFFFFF</Color>
 </ResourceDictionary>
