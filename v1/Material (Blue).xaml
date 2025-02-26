@@ -12,7 +12,7 @@
     <!-- Describe this theme -->
     <system:String x:Key="Theme.Description">Just a material blue theme</system:String>
     <!-- How the theme will be shown in UI -->
-    <system:String x:Key="Theme.DisplayName">GameVault Theme Material (Blue)</system:String>
+    <system:String x:Key="Theme.DisplayName">GameVault Material (Blue)</system:String>
 
     <!-- Text Color | On Realtime-Colors this is "Text" -->
     <Color x:Key="GameVault.Colors.Foreground">#FFFFFFFF</Color>
