@@ -4,9 +4,10 @@
     xmlns:options="http://schemas.microsoft.com/winfx/2006/xaml/presentation/options"
     xmlns:system="clr-namespace:System;assembly=mscorlib">
     <system:Int32 x:Key="Theme.SchemaVersion">1</system:Int32>
-    <!-- EDIT THEME HERE-->
+
+    <!-- Edits Begin Here -->
     <!-- A version number you can use to update your theme -->
-    <system:Int32 x:Key="Theme.Version">2</system:Int32>
+    <system:Int32 x:Key="Theme.Version">3</system:Int32>
     <!-- Theme File Name Convention is Theme+YourThemeName+Dark/Light (e.g. ThemeOceanLight) -->
     <system:String x:Key="Theme.Name">ThemeMochaDark</system:String>
     <!-- Ideally your GitHub Username -->
@@ -16,24 +17,28 @@
     <!-- How the theme will be shown in UI -->
     <system:String x:Key="Theme.DisplayName">Mocha (Dark)</system:String>
 
-    <!-- Text Color | On Realtime-Colors this is "Text" -->
+    <!-- Affects most text and sidebar icons -->
     <Color x:Key="GameVault.Colors.Foreground">#FFFFFFFF</Color>
-    <!-- Text Color on top of Primary Color -->
-    <Color x:Key="GameVault.Colors.Foreground2">#FF392809</Color>
-    <!-- Background Color (The one that takes most background space) | On Realtime-Colors this is "Background" -->
+    <!-- Affects text on buttons and library headers -->
+    <Color x:Key="GameVault.Colors.Foreground2">#FFFFFFFF</Color>
+    
+    <!-- Main background color for settings page and back of library view -->
     <Color x:Key="GameVault.Colors.Background">#FF392809</Color>
-    <!-- Background Color (for cards and layouts) | On Realtime-Colors this is "Secondary" -->
+    <!-- Background color of library shelf and sidebar/topbar -->
     <Color x:Key="GameVault.Colors.Background2">#FF392809</Color>
-    <!-- Primary / Accent Color | On Realtime-Colors this is "Primary" -->
+    
+    <!-- Accent Color, affects some text and most buttons -->
     <Color x:Key="GameVault.Colors.Accent">#FFAE9E81</Color>
-    <!-- Primary Accent Color with 60% Opacity -->
+    <!-- Accent Color with 60% Opacity -->
     <Color x:Key="GameVault.Colors.Accent2">#99AE9E81</Color>
-    <!-- Primary Accent Color with 40% Opacity -->
+    <!-- Accent Color with 40% Opacity -->
     <Color x:Key="GameVault.Colors.Accent3">#66AE9E81</Color>
-    <!-- Primary Accent Color with 20% Opacity -->
+    <!-- Accent Color with 20% Opacity -->
     <Color x:Key="GameVault.Colors.Accent4">#33AE9E81</Color>
-    <!-- Border Colors | On Realtime-Colors this is "Accent" -->
-    <Color x:Key="GameVault.Colors.Border">#AAE4D1AF</Color>
-    <!-- Blur Overlay Color | Usually White for Light Themes and Black for Dark Themes  -->
-    <Color x:Key="GameVault.Colors.Blur">#00AE9E81</Color>
+    
+    <!-- Affects borders of text input fields and dropdowns -->
+    <Color x:Key="GameVault.Colors.Border">#FFE4D1AF</Color>
+    
+    <!-- Affects the overlay on boxart and the coloration of game details backdrop -->
+    <Color x:Key="GameVault.Colors.Blur">#00000000</Color>
 </ResourceDictionary>
