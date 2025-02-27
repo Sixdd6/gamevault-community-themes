@@ -25,16 +25,16 @@
     <!-- Main background color for settings page and back of library view -->
     <Color x:Key="GameVault.Colors.Background">#FF003262</Color>
     <!-- Background color of library shelf and sidebar/topbar -->
-    <Color x:Key="GameVault.Colors.Background2">#FF00356B</Color>
+    <Color x:Key="GameVault.Colors.Background2">#FF00458A</Color>
 
     <!-- Accent Color, affects some text and most buttons -->
     <Color x:Key="GameVault.Colors.Accent">#FF1E90FF</Color>
     <!-- Accent Color with 60% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent2">#FF1E90FF</Color>
+    <Color x:Key="GameVault.Colors.Accent2">#991E90FF</Color>
     <!-- Accent Color with 40% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent3">#FF1E90FF</Color>
+    <Color x:Key="GameVault.Colors.Accent3">#661E90FF</Color>
     <!-- Accent Color with 20% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent4">#FF1E90FF</Color>
+    <Color x:Key="GameVault.Colors.Accent4">#331E90FF</Color>
 
     <!-- Affects borders of text input fields and dropdowns -->
     <Color x:Key="GameVault.Colors.Border">#FF1E90FF</Color>
