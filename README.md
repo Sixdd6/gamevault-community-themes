@@ -41,7 +41,3 @@ To ensure consistency and quality across our themes, please adhere to the follow
 ## 📄 License
 
 This repository is licensed under the [UNLICENSE](LICENSE). By contributing your themes, you agree to make them available under this license.
-
----
-
-Thank you for being a part of the GameVault Community Themes project! Together, let's unleash creativity and elevate gaming to new heights. If you have any questions or suggestions, feel free to reach out to us.
