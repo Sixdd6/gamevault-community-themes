@@ -7,7 +7,7 @@
 
     <!-- Edits Begin Here -->
     <!-- A version number you can use to update your theme -->
-    <system:Int32 x:Key="Theme.Version">3</system:Int32>
+    <system:Int32 x:Key="Theme.Version">4</system:Int32>
     <!-- Theme File Name Convention is Theme+YourThemeName+Dark/Light (e.g. ThemeOceanLight) -->
     <system:String x:Key="Theme.Name">ThemeMochaDark</system:String>
     <!-- Ideally your GitHub Username -->
@@ -40,5 +40,5 @@
     <Color x:Key="GameVault.Colors.Border">#FFE4D1AF</Color>
     
     <!-- Affects the overlay on boxart and the coloration of game details backdrop -->
-    <Color x:Key="GameVault.Colors.Blur">#00000000</Color>
+    <Color x:Key="GameVault.Colors.Blur">#FF000000</Color>
 </ResourceDictionary>

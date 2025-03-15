@@ -6,7 +6,7 @@
     <system:Int32 x:Key="Theme.SchemaVersion">1</system:Int32>
     <!-- EDIT THEME HERE-->
     <!-- A version number you can use to update your theme -->
-    <system:Int32 x:Key="Theme.Version">1</system:Int32>
+    <system:Int32 x:Key="Theme.Version">2</system:Int32>
     <!-- Theme File Name Convention is Theme+YourThemeName+Dark/Light (e.g. ThemeOceanLight) -->
     <system:String x:Key="Theme.Name">ThemeTemplateDark</system:String>
     <!-- Ideally your GitHub Username -->
@@ -16,6 +16,12 @@
         custom themes.</system:String>
     <!-- How the theme will be shown in UI -->
     <system:String x:Key="Theme.DisplayName">GameVault Theme Template (Dark)</system:String>
+
+    <!-- COLORS use ARGB format (#AARRGGBB):
+     AA: Alpha (Opacity, 00 transparent to FF opaque)
+     RR: Red component
+     GG: Green component
+     BB: Blue component -->
 
     <!-- Text Color | On Realtime-Colors this is "Text" -->
     <Color x:Key="GameVault.Colors.Foreground">#FFFFFFFF</Color>
@@ -37,5 +43,5 @@
     <!-- Border Colors | On Realtime-Colors this is "Accent" -->
     <Color x:Key="GameVault.Colors.Border">#FF3B3767</Color>
     <!-- Blur Overlay Color | Usually White for Light Themes and Black for Dark Themes  -->
-    <Color x:Key="GameVault.Colors.Blur">#00000000</Color>
+    <Color x:Key="GameVault.Colors.Blur">#FF000000</Color>
 </ResourceDictionary>

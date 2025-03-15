@@ -4,7 +4,7 @@
     <system:Int32 x:Key="Theme.SchemaVersion">1</system:Int32>
     <!-- EDIT THEME HERE-->
     <!-- A version number you can use to update your theme -->
-    <system:Int32 x:Key="Theme.Version">1</system:Int32>
+    <system:Int32 x:Key="Theme.Version">2</system:Int32>
     <!-- Theme File Name Convention is Theme+YourThemeName+Dark/Light (e.g. ThemeOceanLight) -->
     <system:String x:Key="Theme.Name">Material Blue</system:String>
     <!-- Ideally your GitHub Username -->
@@ -34,5 +34,5 @@
     <!-- Border Colors | On Realtime-Colors this is "Accent" -->
     <Color x:Key="GameVault.Colors.Border">#FF1565C0</Color>
     <!-- Blur Overlay Color | Usually White for Light Themes and Black for Dark Themes  -->
-    <Color x:Key="GameVault.Colors.Blur">#00000000</Color>
+    <Color x:Key="GameVault.Colors.Blur">#FF000000</Color>
 </ResourceDictionary>

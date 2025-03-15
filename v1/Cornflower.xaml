@@ -40,6 +40,6 @@
     <Color x:Key="GameVault.Colors.Border">#FF7EA8EB</Color>
     
     <!-- Affects the overlay on boxart and the coloration of game details backdrop -->
-    <Color x:Key="GameVault.Colors.Blur">#FFffffff</Color>
+    <Color x:Key="GameVault.Colors.Blur">#FFFFFFFF</Color>
 
 </ResourceDictionary>
