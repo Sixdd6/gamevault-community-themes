@@ -28,13 +28,13 @@
     <Color x:Key="GameVault.Colors.Background2">#FF7EA8EB</Color>
     
     <!-- Accent Color, affects some text and most buttons -->
-    <Color x:Key="GameVault.Colors.Accent">#FF7EA8EB</Color>
+    <Color x:Key="GameVault.Colors.Accent">#FF3E68AB</Color>
     <!-- Accent Color with 60% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent2">#997EA8EB</Color>
+    <Color x:Key="GameVault.Colors.Accent2">#993E68AB</Color>
     <!-- Accent Color with 40% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent3">#667EA8EB</Color>
+    <Color x:Key="GameVault.Colors.Accent3">#663E68AB</Color>
     <!-- Accent Color with 20% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent4">#337EA8EB</Color>
+    <Color x:Key="GameVault.Colors.Accent4">#333E68AB</Color>
     
     <!-- Affects borders of text input fields and dropdowns -->
     <Color x:Key="GameVault.Colors.Border">#FF7EA8EB</Color>
