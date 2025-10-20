@@ -4,42 +4,42 @@
     xmlns:options="http://schemas.microsoft.com/winfx/2006/xaml/presentation/options"
     xmlns:system="clr-namespace:System;assembly=mscorlib">
     <system:Int32 x:Key="Theme.SchemaVersion">1</system:Int32>
-
+    
     <!-- Edits Begin Here -->
     <!-- A version number you can use to update your theme -->
     <system:Int32 x:Key="Theme.Version">2</system:Int32>
-    <!-- Theme File Name Convention is Theme+YourThemeName+Dark/Light -->
-    <system:String x:Key="Theme.Name">ThemeLagoonLight</system:String>
+    <!-- Theme File Name Convention is Theme+YourThemeName+Dark/Light (e.g. ThemeOceanLight) -->
+    <system:String x:Key="Theme.Name">ThemeCottonCandyLight</system:String>
     <!-- Ideally your GitHub Username -->
     <system:String x:Key="Theme.Author">Sixdd6</system:String>
     <!-- Describe this theme -->
-    <system:String x:Key="Theme.Description">A light tropical feel.</system:String>
+    <system:String x:Key="Theme.Description">A vibrant theme in blue and red.</system:String>
     <!-- How the theme will be shown in UI -->
-    <system:String x:Key="Theme.DisplayName">Lagoon (Light)</system:String>
+    <system:String x:Key="Theme.DisplayName">Cotton Candy (Light)</system:String>
 
     <!-- Affects most text and sidebar icons -->
-    <Color x:Key="GameVault.Colors.Foreground">#DDFFFFFF</Color>
+    <Color x:Key="GameVault.Colors.Foreground">#FF9B594C</Color>
     <!-- Affects text on buttons and library headers -->
-    <Color x:Key="GameVault.Colors.Foreground2">#DDFFFFFF</Color>
+    <Color x:Key="GameVault.Colors.Foreground2">#FF9B594C</Color>
 
     <!-- Main background color for settings page and back of library view -->
-    <Color x:Key="GameVault.Colors.Background">#FF00C5E5</Color>
+    <Color x:Key="GameVault.Colors.Background">#FFF2E3DC</Color>
     <!-- Background color of library shelf and sidebar/topbar -->
-    <Color x:Key="GameVault.Colors.Background2">#FF00A5A0</Color>
-
+    <Color x:Key="GameVault.Colors.Background2">#FFBFC4DE</Color>
+    
     <!-- Accent Color, affects some text and most buttons -->
-    <Color x:Key="GameVault.Colors.Accent">#FF00A5A0</Color>
+    <Color x:Key="GameVault.Colors.Accent">#FFBFC4DE</Color>
     <!-- Accent Color with 60% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent2">#9900A5A0</Color>
+    <Color x:Key="GameVault.Colors.Accent2">#99BFC4DE</Color>
     <!-- Accent Color with 40% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent3">#6600A5A0</Color>
+    <Color x:Key="GameVault.Colors.Accent3">#66BFC4DE</Color>
     <!-- Accent Color with 20% Opacity -->
-    <Color x:Key="GameVault.Colors.Accent4">#3300A5A0</Color>
+    <Color x:Key="GameVault.Colors.Accent4">#33BFC4DE</Color>
 
     <!-- Affects borders of text input fields and dropdowns -->
-    <Color x:Key="GameVault.Colors.Border">#FF00A5A0</Color>
-
-    <!-- Affects the overlay on boxart and the coloration of game details backdrop -->
-    <Color x:Key="GameVault.Colors.Blur">#66292929</Color>
+    <Color x:Key="GameVault.Colors.Border">#AA294666</Color>
+    
+    <!-- Affects the hover overlay on boxart and the coloration of game details backdrop -->
+    <Color x:Key="GameVault.Colors.Blur">#EEFFFFFF</Color>
 
 </ResourceDictionary>
